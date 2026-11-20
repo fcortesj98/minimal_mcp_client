@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+mcp_client_env/
+server.log
+test.txt
